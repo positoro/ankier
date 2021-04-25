@@ -1,6 +1,7 @@
 # Ankier
 
 英単語のリストが書かれたテキストファイルから [Anki](https://apps.ankiweb.net "Anki Home") 登録用データを作成する物です。
+[weblio](https://www.weblio.jp) をありがたく利用させていただいています。
 
 # Requirement
  

@@ -1,6 +1,7 @@
 # Ankier
 
 英単語のリストが書かれたテキストファイルから [Anki](https://apps.ankiweb.net "Anki Home") 登録用データを作成する物です。
+
 [weblio](https://www.weblio.jp) をありがたく利用させていただいています。
 
 # Requirement
@@ -20,7 +21,9 @@ fuga@hoge:/# python ankier.py
 # Note
  
 実行すると output_for_anki.txt を出力します。
+
 Anki で「ファイルを読み込む」から登録してください。
+
 出力データには品詞とその単語の意味を、英単語のリストに反映させています。
 
  

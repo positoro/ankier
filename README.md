@@ -33,4 +33,4 @@ positoro@gmail.com
  
 # License
  
-radioRecorder is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+ankier is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).

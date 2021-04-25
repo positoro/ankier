@@ -20,7 +20,7 @@ fuga@hoge:/# python ankier.py
  
 # Note
  
-実行すると output_for_anki.txt を出力します。
+実行すると同じディレクトリに output_for_anki.txt を出力します。
 
 Anki で「ファイルを読み込む」から登録してください。
 

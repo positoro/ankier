@@ -21,6 +21,8 @@ fuga@hoge:/# python ankier.py
  
 実行すると output_for_anki.txt を出力します。
 Anki で「ファイルを読み込む」から登録してください。
+出力データには品詞とその単語の意味を、英単語のリストに反映させています。
+
  
 # Author
 

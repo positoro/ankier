@@ -1,7 +1,7 @@
 # Ankier
 
-英単語のリストが書かれたテキストファイルから Anki 登録用データを作成する物です。
- 
+英単語のリストが書かれたテキストファイルから [Anki](https://apps.ankiweb.net "Anki Home") 登録用データを作成する物です。
+
 # Requirement
  
 Python 3.8.5 で動作しています。
